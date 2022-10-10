@@ -71,7 +71,9 @@
         </td>
 </tr>
 </table>
+
 ## School
+
 <table>
     <tr>
         <td>
