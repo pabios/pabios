@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-## School
+## Schools
 
 <table>
     <tr>
