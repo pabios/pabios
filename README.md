@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-## Schools
+## School
 
 <table>
     <tr>
@@ -100,3 +100,7 @@
 </table>
  
   
+  ## Contact
+  <a href="https://www.reddit.com/user/pabios_af/">Join me on Reddit<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Reddit_logo_new.svg/1280px-Reddit_logo_new.svg.png" alt="logo reddit" width="200" style="background-color:white;">
+   </a>
