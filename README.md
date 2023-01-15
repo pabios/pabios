@@ -1,7 +1,7 @@
 
 # Hi 👋 Welcome to pabios I am ismael
 ### becomes turing
-> Come post your tips with me on (https://pabiosoft.com)[pabiosoft.com]
+> Come post your tips with me on (https://pabiosoft.com)
 ### 🕹️ Eternal learner 🕹️
 
 ## Back
