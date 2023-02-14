@@ -33,10 +33,13 @@
             border-radius:30% ">
         </td>
         <td> 
-            <img alt="react-native" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="50" style="border:1px solid none; border-radius:30% ">
+            <img alt="react-native" src="https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg">
         </td>
          <td> 
             <img alt="symfony" src="https://symfony.com/logos/symfony_black_03.png" width="40" style="border:1px solid none; border-radius:10%;padding:2%">
+        </td>
+      <td> 
+            <img alt="arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/640px-Arduino_Logo.svg.png" width="40" height="40" style="border:1px solid none; border-radius:10%;   ">
         </td>
         <td> 
             <img alt="angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" width="40" height="40" style="border:1px solid none; border-radius:10%;   ">
