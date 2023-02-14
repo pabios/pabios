@@ -33,7 +33,8 @@
             border-radius:30% ">
         </td>
         <td> 
-            <img alt="react-native" src="https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg">
+            <img alt="react-native" src="https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg" width="50" style="border:1px solid none; 
+            border-radius:30% ">
         </td>
          <td> 
             <img alt="symfony" src="https://symfony.com/logos/symfony_black_03.png" width="40" style="border:1px solid none; border-radius:10%;padding:2%">
