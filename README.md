@@ -8,20 +8,21 @@
  
 | LANGUAGE | FRAMEWORK |
 | ------ | ------ |
-| PHP | [SYMFONY] |
+| PHP | [SYMFONY] ❤️ |
+| NODE | [EXPRESS] |
 | JAVA | [SPRING] |
 
  
 ## FRONT
 | LANGUAGE    |    FRAMEWORK |
 | ------    | ------ |
-| ts | [ANGULAR] |
+| ts | [ANGULAR ❤️] |
 | js | [React] |
 
 ## ELECTRONIC
 | Components |    LANGUAGE |
 | ------    | ------ |
-| Arduino | [C++] |
+| Arduino | [C++ ❤️] |
 | Raspberry | [Python] |
  
 
@@ -58,24 +59,6 @@
             <img alt="arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/640px-Arduino_Logo.svg.png" width="40" height="40" style="border:1px solid none; border-radius:10%;   ">
         </td>
     </tr>
-</table>
-
-## Skills in progress
-<table>
-<tr>
-    <td> 
-            <img alt="spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" width="180" height="40" style="border:1px solid none; border-radius:10%;   ">
-        </td>
-</tr>
-</table>
-
-## Final skill to finally be able to meditate
-   <table>
-<tr>
-    <td> 
-            <img alt="spring" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="150" height="80" style="border:1px solid none; border-radius:10%;   ">
-        </td>
-</tr>
 </table>
 
 ## School
