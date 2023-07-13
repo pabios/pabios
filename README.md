@@ -1,5 +1,5 @@
 
-# Hi 👋 Welcome to pabios I am ismael
+# Hi 👋 Welcome to pabios
 ### becomes turing
 > Come post your tips with me on (https://pabiosoft.com)
 ### 🕹️ Eternal learner 🕹️
