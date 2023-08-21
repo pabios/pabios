@@ -9,7 +9,7 @@
 | LANGUAGE | FRAMEWORK |
 | ------ | ------ |
 | PHP | [SYMFONY] ❤️ |
-| NODE | [EXPRESS] |
+| NODE | [EXPRESS] ❤️|
 | JAVA | [SPRING] |
 
  
@@ -17,13 +17,13 @@
 | LANGUAGE    |    FRAMEWORK |
 | ------    | ------ |
 | ts | [ANGULAR ❤️] |
-| js | [React] |
+| js | [React] ❤️|
 
 ## ELECTRONIC
 | Components |    LANGUAGE |
 | ------    | ------ |
-| Arduino | [C++ ❤️] |
-| Raspberry | [Python] |
+| Micro Controlleur | [C++ ❤️] |
+| Processeur | [Python] |
  
 
 ## SKILS
