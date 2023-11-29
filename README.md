@@ -22,7 +22,7 @@
 ## ELECTRONIC
 | Components |    LANGUAGE |
 | ------    | ------ |
-| Micro Controlleur | [C++ ❤️] |
+| Micro Controlleur | [C++] ❤️❤️ |
 | Processeur | [Python] |
  
 
