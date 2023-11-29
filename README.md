@@ -8,7 +8,7 @@
  
 | LANGUAGE | FRAMEWORK |
 | ------ | ------ |
-| PHP | [SYMFONY] ❤️ |
+| PHP | [SYMFONY] ❤️❤️❤️ |
 | NODE | [EXPRESS] ❤️|
 | JAVA | [SPRING] |
 
