@@ -16,7 +16,7 @@
 ## FRONT
 | LANGUAGE    |    FRAMEWORK |
 | ------    | ------ |
-| ts | [ANGULAR ❤️] |
+| ts | [ANGULAR ❤️❤️❤️] |
 | js | [React] ❤️|
 
 ## ELECTRONIC
