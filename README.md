@@ -33,7 +33,7 @@ Viens aussi découvrir mon site 👉 [pabiosoft.com](https://pabiosoft.com)
 ---
 
 ## 📬 Me retrouver
-- [Mon x](https:/x.com/pabios_af/)
+- [Mon x](https://x.com/pabios_af/)
 - [Mon site web](https://pabiosoft.com)
 
 ---
