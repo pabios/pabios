@@ -18,8 +18,8 @@ Viens aussi découvrir mon site 👉 [pabiosoft.com](https://pabiosoft.com)
 - Clean Architecture & API Design
 - Frontend moderne (Angular, Astro)
 - Microservices & Scalabilité
-- Projets d'intranet & outils pour l'éducation
-- Développement sur Raspberry Pi et Arduino
+- Maths & Recherche opérationnelle 
+- Développement embarqué sur microcontrôleurs (Atmega, STM32, Raspberry Pi)
 
 ---
 
