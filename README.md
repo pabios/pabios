@@ -1,41 +1,22 @@
-# Hi 👋 I'm Pabios
-###  Developer, Builder, Project Manager & Eternal Learner
+# Pabios
 
-Bienvenue sur mon espace GitHub !  
-Je partage ici mes projets autour du développement web, du backend, du frontend et parfois de l’électronique embarquée.  
-Viens aussi découvrir mon site 👉 [pabiosoft.com](https://pabiosoft.com)
+Software Developer | Web & Cloud Systems
 
----
-
-## 🛠️ Technologies principales
-| Backend | Frontend | DevOps | Divers |
-|:-------:|:--------:|:------:|:------:|
-| Symfony, Node.js, API Platform | Angular, React, Astro | Docker, CI/CD (GitHub Actions) | C++, Python (embarqués) |
+Currently pivoting from Symfony and Node.js to the .NET 10 & Azure ecosystem.
 
 ---
 
-## 🎯 Centres d’intérêt
-- Clean Architecture & API Design
-- Frontend moderne (Angular, Astro)
-- Microservices & Scalabilité
-- Maths & Recherche opérationnelle 
-- Développement embarqué sur microcontrôleurs (Atmega, STM32, Raspberry Pi)
+### Stack
+- Core: .NET 10, C#, ASP.NET Core
+- Web: Angular, Node.js, Symfony
+- Infra: Azure, Docker, ci/cd
+- Hardware: C++, STM32, PCB Design, Electronics
+
+### Interests
+- Cloud-Native architectures & AI integration
+- Operations Research & Applied Mathematics
 
 ---
 
-## 📚 Parcours
-- **CESI** 🎓
-- **Université Grenoble Alpes** 🎓
-- **OpenClassrooms** 🚀
-- **3W Academy** 🎓
-- **Université Dakar Bourguiba** 🌍
-
----
-
-## 📬 Me retrouver
-- [Mon x](https://x.com/pabios_af/)
-- [Mon site web](https://pabiosoft.com)
-
----
-
-#  "Apprends, Construis, Partage"
+### Links
+- [pabiosoft.com](https://pabiosoft.com)
