@@ -20,9 +20,7 @@ Currently pivoting from Symfony and Node.js to the .NET 10 & Azure ecosystem.
 
 ### Philosophy
 
-<p align="center">
-  <img src="https://latex.codecogs.com/ot1/svg.retina?%5Chuge%20d%20%3D%20v%20%5Ccdot%20t" alt="d = v * t" />
-</p>
+$$\Huge X = v \cdot t$$
 
 > La distance parcourue ($d$) n'est pas seulement le produit d'une vitesse ($v$) technique, mais de la constance du temps ($t$) investi. 
 > 
