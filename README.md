@@ -21,9 +21,6 @@ Currently pivoting from Symfony and Node.js to the .NET 10 & Azure ecosystem.
 ### Philosophy
 
 $$\Huge X = v \cdot t$$
-
-> La distance parcourue ($d$) n'est pas seulement le produit d'une vitesse ($v$) technique, mais de la constance du temps ($t$) investi. 
-> 
 ---
 
 ### Links
