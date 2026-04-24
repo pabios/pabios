@@ -2,12 +2,11 @@
 
 Software Developer | Web & Cloud Systems
 
-Currently pivoting from Symfony and Node.js to the .NET 10 & Azure ecosystem.
-
+Strong background in Symfony, Node.js, and Angular, with a growing interest in AI with .NET.
 ---
 
 ### Stack
-- Core: .NET 10, C#, ASP.NET Core
+- Core & IA: .NET 10, C#, ASP.NET Core
 - Web: Angular, Node.js, Symfony
 - Infra: Azure, Docker, ci/cd
 - Hardware: C++, STM32, PCB Design, Electronics
