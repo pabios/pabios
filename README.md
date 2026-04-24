@@ -3,6 +3,7 @@
 Software Developer | Web & Cloud Systems
 
 Strong background in Symfony, Node.js, and Angular, with a growing interest in AI with .NET.
+
 ---
 
 ### Stack
